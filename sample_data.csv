@@ -1,0 +1,13 @@
+Date,Product_Category,Region,Units_Sold,Unit_Price,Revenue,Status
+2023-10-01,Electronics,North,150,299.99,44998.50,Completed
+2023-10-02,Software,West,45,150.00,6750.00,Completed
+2023-10-03,Accessories,East,320,25.00,8000.00,Completed
+2023-10-04,Electronics,South,80,550.00,44000.00,Cancelled
+2023-10-05,Hardware,North,12,1200.00,14400.00,Completed
+2023-10-06,Software,East,90,99.99,8999.10,Completed
+2023-10-07,Electronics,West,210,199.99,41997.90,Completed
+2023-10-08,Consulting,South,5,5000.00,25000.00,Completed
+2023-10-09,Accessories,North,500,15.50,7750.00,Returned
+2023-10-10,Hardware,West,35,800.00,28000.00,Completed
+2023-10-11,Software,North,120,49.99,5998.80,Cancelled
+2023-10-12,Electronics,East,180,349.50,62910.00,Completed
